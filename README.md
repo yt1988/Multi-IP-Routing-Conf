@@ -1,4 +1,4 @@
-### Outbound Rule Manager Script
+### Multi IP Routing Conf Script
 
 #### 功能简介
 这个Bash脚本是一个交互式工具，用于在Debian系统上管理iptables/ip6tables的出站NAT规则（SNAT）。它允许用户通过指定目标CIDR地址和公网IP来控制网络流量出站，实现精细化的出口IP管理。脚本会自动读取系统配置的公网IPv4和IPv6地址，并支持规则的持久化（通过自动安装iptables-persistent）。
