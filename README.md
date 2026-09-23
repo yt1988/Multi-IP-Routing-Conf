@@ -23,7 +23,6 @@
 通过这个脚本，用户可以避免复杂的命令行操作，快速配置和管理出站规则，适合网络管理员、DevOps工程师或Linux爱好者。
 
 #### 脚本的使用方法
-该脚本托管在GitHub上，线上链接为：https://github.com/yt1988/Multi-IP-Routing-Conf/raw/refs/heads/main/multi-ip-routing-conf.sh
 
 在Debian系统中，您可以采用一键运行的方式快速部署和使用脚本。以下是推荐步骤：
 
